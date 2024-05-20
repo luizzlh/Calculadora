@@ -68,7 +68,6 @@ class Calculator {
          default:
             return;
       }
-
    }
 
    // Change values of the calculator screen
